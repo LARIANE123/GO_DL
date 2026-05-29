@@ -104,8 +104,3 @@ analysis are available in:
 
     Go.pdf
 
-------------------------------------------------------------------------
-
-## License
-
-This project is released under the [MIT](https://github.com/sepanta007/GO/blob/master/LICENSE) License.
